@@ -20,5 +20,5 @@ Aircraft engine emissions are a major concern for environmental sustainability. 
 
 4. **Clustering Models**: Applying unsupervised learning algorithms, including:
    -  K-Means Clustering
-   -  DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+   -  DBSCAN 
 
